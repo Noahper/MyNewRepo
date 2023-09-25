@@ -1,0 +1,3 @@
+git remote add origins https://github.com/Noahper/MyNewRepo.git
+git.branch -M main
+git.branch -u origin main
